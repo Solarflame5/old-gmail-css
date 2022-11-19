@@ -1,2 +1,2 @@
 # old-gmail-css
-An userstyle to make Gmail look like how it looked before the redesign.
+An work-in-progress userstyle to make Gmail look like how it looked before the redesign.
